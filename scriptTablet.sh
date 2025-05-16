@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # ==== Configuración ====
-REPO_URL="https://github.com/danilomedina12/Drivers-Itron-Navipad-W7/raw/main/Touch%20(correr%20instalador)/Touch/SileadTouch.fw"
+REPO_URL="https://raw.githubusercontent.com/danilomedina12/Drivers-Itron-Navipad-W7/main/Touch%20(correr%20instalador)/Touch/SileadTouch.fw"
 TMP_DIR="/tmp/silead_fw"
 FIRMWARE_ORIGINAL="SileadTouch.fw"
 FIRMWARE_CONVERTIDO="silead_ts.fw"
