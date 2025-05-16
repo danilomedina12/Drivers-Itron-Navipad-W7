@@ -8,8 +8,8 @@ FW_NAME="SileadTouch.fw"
 FWTOOL_PATH="gsl-firmware/tools/fwtool"
 FW_OUT="silead_ts.fw"
 CHIP_ID=1680
-RES_X=940
-RES_Y=750
+RES_X=1024
+RES_Y=600
 MAX_TOUCH=10
 
 # ───── Verificar que fwtool exista ─────
